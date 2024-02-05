@@ -1,0 +1,7 @@
+import org.apache.hadoop.hdds.scm.protocolPB.StorageContainerLocationProtocolClientSideTranslatorPB;
+public class FunctionUse14463 {
+public void funcUse() {
+StorageContainerLocationProtocolClientSideTranslatorPB storagecontainerlocationprotocolclientsidetranslatorpb = new StorageContainerLocationProtocolClientSideTranslatorPB();
+storagecontainerlocationprotocolclientsidetranslatorpb.getContainerWithPipeline(null);
+}
+}

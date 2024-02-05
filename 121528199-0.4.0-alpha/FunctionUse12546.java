@@ -1,0 +1,7 @@
+import org.apache.hadoop.hdds.protocol.proto.StorageContainerLocationProtocolProtos.GetContainerWithPipelineRequestProtoOrBuilder;
+public class FunctionUse12546 {
+public void funcUse() {
+GetContainerWithPipelineRequestProtoOrBuilder getcontainerwithpipelinerequestprotoorbuilder = new GetContainerWithPipelineRequestProtoOrBuilder();
+getcontainerwithpipelinerequestprotoorbuilder.hasContainerID();
+}
+}

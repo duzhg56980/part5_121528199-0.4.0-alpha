@@ -1,0 +1,7 @@
+import org.apache.hadoop.hdds.protocol.datanode.proto.ContainerProtos.PutSmallFileResponseProto;
+public class FunctionUse1861 {
+public void funcUse() {
+PutSmallFileResponseProto putsmallfileresponseproto = new PutSmallFileResponseProto();
+putsmallfileresponseproto.access$47202(null,null);
+}
+}

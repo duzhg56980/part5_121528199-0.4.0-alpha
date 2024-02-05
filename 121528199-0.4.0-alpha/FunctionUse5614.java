@@ -1,0 +1,7 @@
+import org.apache.hadoop.hdds.protocol.datanode.proto.IntraDatanodeProtocolServiceGrpc.IntraDatanodeProtocolServiceBaseDescriptorSupplier;
+public class FunctionUse5614 {
+public void funcUse() {
+IntraDatanodeProtocolServiceBaseDescriptorSupplier intradatanodeprotocolservicebasedescriptorsupplier = new IntraDatanodeProtocolServiceBaseDescriptorSupplier();
+intradatanodeprotocolservicebasedescriptorsupplier.getServiceDescriptor();
+}
+}

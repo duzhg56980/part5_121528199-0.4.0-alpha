@@ -1,0 +1,7 @@
+import org.apache.hadoop.hdds.protocol.datanode.proto.XceiverClientProtocolServiceGrpc.XceiverClientProtocolServiceMethodDescriptorSupplier;
+public class FunctionUse3410 {
+public void funcUse() {
+XceiverClientProtocolServiceMethodDescriptorSupplier xceiverclientprotocolservicemethoddescriptorsupplier = new XceiverClientProtocolServiceMethodDescriptorSupplier();
+xceiverclientprotocolservicemethoddescriptorsupplier.getMethodDescriptor();
+}
+}

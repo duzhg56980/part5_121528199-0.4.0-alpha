@@ -1,0 +1,7 @@
+import org.apache.hadoop.hdds.protocol.proto.HddsProtos.ContainerBlockID;
+public class FunctionUse13587 {
+public void funcUse() {
+ContainerBlockID containerblockid = new ContainerBlockID();
+containerblockid.newBuilder(null);
+}
+}

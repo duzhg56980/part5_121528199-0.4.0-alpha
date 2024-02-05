@@ -1,0 +1,7 @@
+import org.apache.hadoop.hdds.protocol.datanode.proto.ContainerProtos.UpdateContainerRequestProto;
+public class FunctionUse4491 {
+public void funcUse() {
+UpdateContainerRequestProto updatecontainerrequestproto = new UpdateContainerRequestProto();
+updatecontainerrequestproto.getUnknownFields();
+}
+}

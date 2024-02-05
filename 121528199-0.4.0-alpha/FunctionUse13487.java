@@ -1,0 +1,7 @@
+import org.apache.hadoop.hdds.protocol.proto.SCMSecurityProtocolProtos.SCMGetDataNodeCertRequestProto;
+public class FunctionUse13487 {
+public void funcUse() {
+SCMGetDataNodeCertRequestProto scmgetdatanodecertrequestproto = new SCMGetDataNodeCertRequestProto();
+scmgetdatanodecertrequestproto.access$702(null,null);
+}
+}

@@ -1,0 +1,6 @@
+import org.apache.hadoop.utils.db.DBStoreBuilder;
+public class FunctionUse14868 {
+public void funcUse() {
+DBStoreBuilder dbstorebuilder = new DBStoreBuilder();
+}
+}

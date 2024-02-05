@@ -1,0 +1,6 @@
+import org.apache.hadoop.hdds.scm.container.common.helpers.ContainerWithPipeline;
+public class FunctionUse14596 {
+public void funcUse() {
+ContainerWithPipeline containerwithpipeline = new ContainerWithPipeline();
+}
+}

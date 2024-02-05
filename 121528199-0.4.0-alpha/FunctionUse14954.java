@@ -1,0 +1,7 @@
+import org.apache.hadoop.utils.db.DBCheckpoint;
+public class FunctionUse14954 {
+public void funcUse() {
+DBCheckpoint dbcheckpoint = new DBCheckpoint();
+dbcheckpoint.getCheckpointTimestamp();
+}
+}

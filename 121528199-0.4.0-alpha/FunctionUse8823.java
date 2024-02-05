@@ -1,0 +1,7 @@
+import org.apache.hadoop.hdds.protocol.proto.StorageContainerLocationProtocolProtos.ForceExitChillModeRequestProto;
+public class FunctionUse8823 {
+public void funcUse() {
+ForceExitChillModeRequestProto forceexitchillmoderequestproto = new ForceExitChillModeRequestProto();
+forceexitchillmoderequestproto.parseDelimitedFrom(null,null);
+}
+}
